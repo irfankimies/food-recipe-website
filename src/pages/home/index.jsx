@@ -33,7 +33,7 @@ export default function Home(){
                 </h3>
                 <span className="text-sm text-cyan-700 font-medium flex flex-row items-center">
                   Rating: {item?.rating}
-                  <img className="w-4 m-1" src="./public/star4.svg" />(
+                  <img className="w-4 m-1" src="/star4.svg" />(
                   {item?.reviewCount})
                 </span>
                 <p className="text-sm">
